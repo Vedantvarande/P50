@@ -1,0 +1,114 @@
+*
+{
+    margin: 0;
+    height: 100%;
+}
+
+body{
+    width: 100%
+}
+
+.img-container{
+    background-image: url(2.jpg);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.inner-container{
+    text-align: center;
+    position:absolute;
+    width: 100%;
+    color: white;
+    height:auto;
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 6em;
+    font-family: "Shadows into Light",sans-serif;
+}
+
+h2{
+    margin-top: 0px;
+    font-family: "Source Sans Pro",sans-serif;
+    font-size: 2.7em;
+    text-align: center;
+    font-weight: 700;
+}
+
+.grid{
+  
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+.panda {
+  border: 1px solid black;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 400px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.chameleon {
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+.cicada {
+  border: 1px solid black;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 400px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.teddy {
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+.pigeon {
+  border: 1px solid black;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 400px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+p{
+    font-size: 2em;
+    font-family: "Shadows into Light",sans-serif;
+}
